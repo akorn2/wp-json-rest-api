@@ -1,5 +1,6 @@
 
-#WP JSON REST API by Alex Rodriguez (@arod2634)
+#WP JSON REST API 
+####by Alex Rodriguez (@arod2634)
 Implements a basic RESTful JSON API for viewing WP Posts via HTTP GET requests to the base "/api/" endpoint. This plugin is written to be highly modular and allow for easy extension. Please feel free to use this code as a boiler plate for your own custom JSON APIs. Most of the error handling has already been written for you ;-)
 
 ## API Endpoints
